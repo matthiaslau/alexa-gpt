@@ -15,7 +15,7 @@
         "userConfig": {
           "runtime": "python3.9",
           "handler": "lambda_function",
-          "awsRegion": "us-east-1"
+          "awsRegion": "eu-west-1"
         }
       }
     }

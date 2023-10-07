@@ -102,11 +102,11 @@
                     "keywords": []
                 },
                 "de-DE": {
-                    "name": "chat",
+                    "name": "neugierig",
                     "summary": "ChatGPT in Alexa",
                     "description": "Alexa-Skill, der die OpenAI-API verwendet, um Antworten vom ChatGPT-Modell zu generieren",
                     "examplePhrases": [
-                        "Alexa chat"
+                        "Alexa neugierig"
                     ],
                     "keywords": []
                 },
@@ -144,11 +144,11 @@
         },
         "apis": {
             "custom": {
-				"endpoint": {
-					"sourceDir": "lambda",
-					"uri": "ask-custom-helloworld-classes-default"
-				}
-			}
+                "endpoint": {
+                    "sourceDir": "lambda",
+                    "uri": "ask-custom-neugierig-classes-default"
+                }
+            }
         },
         "manifestVersion": "1.0"
     }
